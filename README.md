@@ -43,10 +43,16 @@ import matplotlib.pyplot as plt
 plt.plot([1, 2, 3], [4, 5, 6])
 plt.show()
 ```
+![code.png](code.png)
+
+
 转换后：
 > 
 	代码练习区…
+![img.png](img.png)
+
 学员可在此处输入代码进行练习。
+
 
 ## 主要参数与自定义选项
 
