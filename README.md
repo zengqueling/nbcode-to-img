@@ -18,20 +18,20 @@
 
 使用说明
 
-	1.	将项目克隆或下载到本地：
+1.	将项目克隆或下载到本地：
 
 `git clone https://github.com/zengqueling/nbcode-to-img.git`
 
-	2.	修改脚本中的路径参数，设置 Jupyter Notebook 文件所在的文件夹路径和图片保存路径：
+2.	修改脚本中的路径参数，设置 Jupyter Notebook 文件所在的文件夹路径和图片保存路径：
 ```
 folder_path = "/path/to/your/notebooks"  # 替换为包含 .ipynb 文件的文件夹路径
 img_folder = "/path/to/save/images"  # 保存代码图片的文件夹路径
 ```
-	3.	运行脚本，将代码单元格转换为图片并生成学员版文件：
+3.	运行脚本，将代码单元格转换为图片并生成学员版文件：
 
 `python generate_student_version.py`
 
-	4.	转换后的 Notebook 文件将在原目录中生成，并附带 _学员版 后缀。
+4.	转换后的 Notebook 文件将在原目录中生成，并附带 _学员版 后缀。
 
 示例
 
