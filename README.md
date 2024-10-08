@@ -57,9 +57,9 @@ plt.show()
 
 项目结构
 ```
-├── generate_student_version.py  # 主脚本
-├── codeimg/                     # 保存生成的代码图片
-└── README.md                    # 项目说明文件
+├── generate_student_version.py     # 主脚本
+├── YaHei Consolas Hybrid 1.12.ttf  # 使用 YaHei Consolas Hybrid 字体以确保中英文混排显示效果良好
+└── README.md                       # 项目说明文件
 ```
 
 贡献
