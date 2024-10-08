@@ -73,6 +73,9 @@ plt.show()
 根据实际情况，你可以替换其中的路径及 GitHub 地址，内容也可以根据你的需求进行调整。
 
 ## 联系
-作者：[令爷]
-邮箱：[eden7@qq.com]
-网站：http://www.zengqueling.com
+
+- 作者：[令爷]
+- 邮箱：[eden7@qq.com]
+- 网站：[http://www.zengqueling.com](http://www.zengqueling.com)
+
+---
