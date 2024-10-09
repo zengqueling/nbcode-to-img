@@ -44,7 +44,7 @@ img_folder = "/path/to/save/images"  # 保存代码图片的文件夹路径
 
 
 转换后：
-> 代码单元格变成图片，用markdown显示，并在下方增加了 代码练习区…
+> 代码单元格渲染为图片，用markdown显示，并在下方增加了 代码练习区…
 ![img.png](img.png)
 
 学员可在此处输入代码进行练习。
