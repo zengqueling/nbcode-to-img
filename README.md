@@ -38,18 +38,13 @@ img_folder = "/path/to/save/images"  # 保存代码图片的文件夹路径
 
 转换前：
 ```python
-# 示例代码单元格
-import matplotlib.pyplot as plt
-
-plt.plot([1, 2, 3], [4, 5, 6])
-plt.show()
+# 单元格为代码单元格，可以编辑代码。
 ```
 ![code.png](code.png)
 
 
 转换后：
-> 
-	代码练习区…
+> 代码单元格变成图片，用markdown显示，并在下方增加了 代码练习区…
 ![img.png](img.png)
 
 学员可在此处输入代码进行练习。
